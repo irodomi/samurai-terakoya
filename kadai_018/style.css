@@ -2,6 +2,7 @@
   width: 800px;
   background-color: #dcc9f4;
   display: flex;
+  flex-direction: row; 
   justify-content: center;
 }
 
@@ -11,9 +12,7 @@
   text-align: center;
   width: 20%;
   background-color: #ffd9df;
-  margin: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 20px 10px 20px 10px;
 }
 
 #middle{
